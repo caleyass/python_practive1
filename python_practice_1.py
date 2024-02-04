@@ -1,0 +1,1 @@
+print("Petrova Olesia", "IPZ-1")
